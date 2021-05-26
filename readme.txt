@@ -1,0 +1,1 @@
+Application coded along with Corey Schafer and his Django tutorial on youtube
